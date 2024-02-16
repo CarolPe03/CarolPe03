@@ -30,7 +30,7 @@
 
 - ☁️ I've keen interest in machine learning development.
 
-- 📫 Feel free to reach me out **fernandezdiego845@gmail.com**
+- 📫 Feel free to reach me out **anacarolpc11@gmail.com**
 
 <!--Intro end-->
 
